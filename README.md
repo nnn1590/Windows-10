@@ -1,6 +1,6 @@
 [![built-with-azurra-framework](https://github.com/Elbullazul/Azurra_framework/raw/assets/azurra_framework_smaller.png)](https://github.com/Elbullazul/Azurra_framework)
 
-# Windows 10 Theme for Linux
+# Windows 10 Theme for GNU/Linux
 
 GTK theme based on the appearance of Win32 apps on the Windows 10 platform using the default color scheme
 
